@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Tomito</string>
+    <string name="title_activity_main">Tomito</string>
+    <string name="package_name">tomito.xyz</string>
+    <string name="custom_url_scheme">tomito.xyz</string>
+</resources>
